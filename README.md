@@ -56,3 +56,6 @@ This tool is for educational purposes or authorized penetration testing. Do not 
 
 📧 Contact
 Made by a young cybersecurity enthusiast. Contributions welcome!
+
+#xss #cybersecurity #bugbounty #nodejs #vulnerability-scanner
+
